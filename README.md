@@ -1,29 +1,26 @@
 # Hi, I'm Alexey 👋
 
-I am a high school student from Sakhalin, interested in game development and software engineering.
+High school student from Sakhalin focused on game development. I enjoy building interactive systems and experimenting with game mechanics, UI, and player interaction.
 
-## 🛠️ Skills
+## 🛠 Skills
 - Python  
 - Godot Engine
 - Unreal Engine
-- Blender
+- Blender  
 
 ## 🚀 Projects
 
 ### 🎮 CyberFriends
-Educational game about cybersecurity for children.
-- Custom dialogue system
-- Built with Godot Engine
+Educational game about cybersecurity for younger audiences.  
+Built in Godot Engine with a custom dialogue system, branching interactions, and full localization (RU/EN).
 
 ### 🏫 Virtual School Museum
-3D interactive environment built in Unreal Engine.
-- Character movement system
-- Basic scene interaction
+3D interactive environment developed in Unreal Engine (Blueprints).  
+Includes a reusable system for exhibits with dynamic data (title, description, image) and interaction via line tracing.
 
 ### 🧠 Unified Educational Platform (Prototype)
-Concept of an educational platform interface.
-- UI/UX design
-- HTML/CSS prototype
+UI/UX concept of a unified educational system.  
+Features structured navigation, filtering, and multiple modules (learning, schedule, documents, profile).
 
 ## 📫 Contact
 - Email: alex.tananin@mail.ru
